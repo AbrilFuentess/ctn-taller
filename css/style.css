@@ -5,9 +5,11 @@
 }
 
 header{
-    height: 130px;
+    height: 120px;
     width: 100%;
     background-color: #690101;
+    position: fixed;
+    
 }
 
 header nav{
@@ -21,7 +23,7 @@ header nav img{
 }
 
 header nav a{
-    font-size: 25px;
+    font-size: 20px;
     padding-top: 40px;
     padding-left: 90px;
     padding-right: 90px;
@@ -40,9 +42,15 @@ a:hover{
 }
 
 main{
-    height: 400px;
+    height: 700px;
     background-color: #000000;
+    padding-top: 150px;
 
+}
+
+main h1{
+    text-align: center;
+    padding-top: 30px;
 }
 
 footer{
