@@ -22,7 +22,9 @@ header nav img{
 
 header nav a{
     font-size: 25px;
-    padding: 40px;
+    padding-top: 40px;
+    padding-left: 90px;
+    padding-right: 90px;
     margin-top: 50px;
     
 }
@@ -30,6 +32,7 @@ header nav a{
 a{
     color: #fff;
     text-decoration: none;
+    
 }
 
 a:hover{
@@ -46,31 +49,43 @@ footer{
     height: 200px;
     width: 100%;
     background-color: #690101;
+   
+   
     
 
 
+}
+
+footer ul a{
+    padding: 30px;
+    
 }
 
 footer ul{
 list-style: none;
+
+
 }
 
 
 .columnone{
-    display: inline;
-    justify-content: left;
+    float: left;
+    padding-top: 30px;
+    padding-right: 30px;
+    
     
 }
 
 .icons-footer{
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    text-align: center;
+    padding-top: 140px;
 
 }
 
 .columntwo{
-    display: inline;
-    justify-content: right;
+    float: right;
+    padding-top: 30px;
+    padding-left: 30px;
 }
+
 
