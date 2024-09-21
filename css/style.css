@@ -1,7 +1,7 @@
 *{
     margin: 0%;
     padding: 0%;
-    color: white;
+    color: #fff
 }
 
 header{
@@ -9,6 +9,7 @@ header{
     width: 100%;
     background-color: #690101;
     position: fixed;
+    z-index: 5;
     
 }
 
@@ -28,23 +29,22 @@ header nav a{
     padding-left: 90px;
     padding-right: 90px;
     margin-top: 50px;
-    
-}
-
-a{
     color: #fff;
     text-decoration: none;
     
 }
+
+
 
 a:hover{
     color: #e66311;
 }
 
 main{
-    height: 700px;
+    height: 1000px;
     background-color: #000000;
     padding-top: 150px;
+    
 
 }
 
@@ -66,6 +66,8 @@ footer{
 
 footer ul a{
     padding: 30px;
+    color: #fff;
+    text-decoration: none;
     
 }
 
@@ -95,5 +97,21 @@ list-style: none;
     padding-top: 30px;
     padding-left: 30px;
 }
+
+#carouselExampleFade{
+    margin-top: 30px;
+    margin-left: 300px;
+    width: 700px;
+    height: 450px;
+    
+}
+
+#carouselExampleFade img{
+    width: 600px;
+    height: 300px;
+   
+}
+
+
 
 
