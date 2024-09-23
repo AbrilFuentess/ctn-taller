@@ -41,7 +41,7 @@ a:hover{
 }
 
 main{
-    height: 1000px;
+    height: 2000px;
     background-color: #000000;
     padding-top: 150px;
     
@@ -98,20 +98,18 @@ list-style: none;
     padding-left: 30px;
 }
 
-#carouselExampleFade{
-    margin-top: 30px;
+
+
+.custom-carousel {
+    
     margin-left: 300px;
     width: 700px;
     height: 450px;
-    
 }
 
-#carouselExampleFade img{
+.custom-carousel img {
     width: 600px;
     height: 300px;
-   
 }
-
-
 
 
