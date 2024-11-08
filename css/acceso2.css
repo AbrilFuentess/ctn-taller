@@ -1,0 +1,102 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: #fff
+}
+
+header{
+    height: 120px;
+    width: 100%;
+    background-color: #690101;
+    position: fixed;
+    z-index: 5;
+    
+}
+
+header nav{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+header nav img{
+    margin-top: 10px;
+}
+
+
+
+
+a:hover{
+    color: #e66311;
+}
+
+main{
+    height: 700px;
+    background-color: #000000;
+    padding-top: 200px;
+    
+
+}
+
+main h1{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+fieldset{
+    width: 800px;
+    height: 400px;
+    background-color: #690101;
+    margin-left: 210px;
+    border-radius: 30px;
+}
+
+
+
+
+footer{
+    height: 200px;
+    width: 100%;
+    background-color: #690101;
+}
+
+footer ul a{
+    padding: 30px;
+    color: #fff;
+    text-decoration: none;
+    
+}
+
+footer ul{
+list-style: none;
+
+
+}
+
+
+.columnone{
+    float: left;
+    padding-top: 30px;
+    padding-right: 30px;
+    
+    
+}
+
+.icons-footer{
+    text-align: center;
+    padding-top: 140px;
+
+}
+
+.columntwo{
+    float: right;
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+
+
+
+
+
