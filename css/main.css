@@ -2,3 +2,40 @@
 aquí colocaremos el css global para el sitio, aplicable a todas las páginas,
 los estilos para componentes o páginas específicas tendrán su archivo aparte 
 */
+body{
+    background-color: black;
+}
+
+nav{
+    background-color: darkred;
+    width: 40em;
+    height: 150px;
+    
+    
+    /* display: flex;
+    flex-direction: row; */
+    /* justify-content: space-between;
+    /* flex-wrap: wrap; */
+}
+/* .cabezalNav{
+    display: block;
+    * width: 100%; *
+} */
+/* .accesosNav{
+    flex: 1;
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-evenly; 
+} */
+.linkNav{
+    flex: 1;    
+}
+
+/* .imgLogo{
+    max-width: 15%;
+    height: auto;
+} */
+
+footer{
+    background-color: darkred;
+}
