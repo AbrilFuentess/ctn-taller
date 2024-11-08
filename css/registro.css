@@ -1,0 +1,21 @@
+header {
+    height: 150px;
+    width: 100%;
+    background-color: #690101;
+    position: fixed;
+    margin-top: -11px;
+    margin-left: -8px;
+}
+
+img {
+    margin-left: 45%;
+    margin-top: 20px;
+}
+fieldset  {
+    height: 500px;
+    width: 400px;
+}
+
+body {
+    background-color: #000000;
+}
