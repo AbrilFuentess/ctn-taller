@@ -19,7 +19,7 @@
             
             <a href="">entrada2</a>
             <div>
-                <img src="../assets/images/logoappc.png" alt="" width="100px" height="100px">
+                <img src="../assets/images/logoappc.png" alt="" width="150px" height="150px">
             </div>
             <a href="">entrada3</a>
             <a href="">entrada4</a>
