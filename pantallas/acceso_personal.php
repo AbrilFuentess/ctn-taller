@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/acceso.css">
+    <link rel="stylesheet" href="../css/acceso.css">
     <title>Acceso Personal</title>
 </head>
 
@@ -15,7 +15,7 @@
 
             <a href="">entrada2</a>
             <div>
-                <img src="img/logoappc.png" alt="" width="100px" height="100px">
+                <img src="../assets/images/logoappc.png" alt="" width="100px" height="100px">
             </div>
             <a href="">entrada3</a>
             <a href="">entrada4</a>

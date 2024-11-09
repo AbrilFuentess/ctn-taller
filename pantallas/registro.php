@@ -9,7 +9,7 @@
 <body>
     <header>
             <div class="header">
-                <img src="../assets/images/logoappc.png" alt="" width="100px" height="100px" class="img">
+                <img src="../assets/images/logoappc.png" alt="" width="150px" height="150px" class="img">
             </div>
     </header>
     <div>
