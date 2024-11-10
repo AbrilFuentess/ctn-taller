@@ -1,28 +1,40 @@
-*{
-    margin: 0%;
-    padding: 0%;
-    color: #fff
+* {
+    margin: 0;
+    padding: 0;
+    color: #fff;
 }
 
-header{
+body {
+    min-height: 150vh; 
+    display: flex;
+    flex-direction: column;
+    background-color: #000000;
+    padding-top: 150px;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
     height: 150px;
     width: 100%;
     background-color: #690101;
+    z-index: 1000; 
 }
 
-header nav{
+header nav {
     display: flex;
     justify-content: center;
     position: relative;
 }
 
-header nav img{
+header nav img {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-header nav a{
+header nav a {
     font-size: 20px;
     padding-top: 40px;
     padding-left: 90px;
@@ -30,72 +42,88 @@ header nav a{
     margin-top: 50px;
     color: #fff;
     text-decoration: none;
-    
 }
 
-a:hover{
+a:hover {
     color: #e66311;
 }
+
+
 .cont1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 100px;
+    margin-top: -150px;
+    flex: 1; 
 }
-.cont2{
+
+.cont2 {
     background-color: #690101;
     height: 300px;
     width: 300px;
     display: flex;
-    justify-content:space-evenly;
+    justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
     border-radius: 20px;
-    position:static;
+    position: static;
 }
-.entradas {
+
+.boton {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: -40px;
+    margin-bottom: 200px;
+}
+
+button {
+    outline-style: none;
+    border-style: none;
+    height: 30px;
+    width: 200px;
     display: flex;
     justify-content: center;
-    text-align: center;
-    margin-top: 50px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: #e5a00f;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    margin: 0 auto; 
 }
-footer{
+a {
+    text-decoration-line: none;
+}
+footer {
     height: 200px;
     width: 100%;
     background-color: #690101;
 }
 
-footer ul a{
+footer ul a {
     padding: 30px;
     color: #fff;
     text-decoration: none;
-    
 }
 
-footer ul{
-list-style: none;
+footer ul {
+    list-style: none;
 }
-.columnone{
+
+.columnone {
     float: left;
     padding-top: 30px;
     padding-right: 30px;
-    
-    
 }
 
-.icons-footer{
+.icons-footer {
     text-align: center;
     padding-top: 140px;
-
 }
 
-.columntwo{
+.columntwo {
     float: right;
     padding-top: 30px;
     padding-left: 30px;
-}
-
-body {
-    height: 1000px;
-    background-color: #000000;
 }

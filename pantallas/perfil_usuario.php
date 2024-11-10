@@ -25,10 +25,10 @@
             <h2>Nombre de usuario</h2>
         </div>
     </div>
-    <h1 class="entradas">Mis entradas</h1>
-    <p>entrada</p>
-    <p>entrada</p>
-    
+    <div class="boton">
+    <a href="mis_entradas.php"><button>Mis entradas</button></a>
+    </div>
+
     <footer>
         <div class="columnone">
             <ul>
@@ -51,9 +51,9 @@
         </div>
 
             <div class="icons-footer">
-                <img src="img/instagram.png" alt="" width="30px" height="30px">
-                <img src="img/facebook-app-symbol.png" alt="" width="30px" height="30px">
-                <img src="img/twitter.png" alt="" width="30px" height="30px">
+                <img src="../assets/images/instagram.png" alt="" width="30px" height="30px">
+                <img src="../assets/images/facebook-app-symbol.png" alt="" width="30px" height="30px">
+                <img src="../assets/images/twitter.png" alt="" width="30px" height="30px">
             </div>
     </footer>
 </body>

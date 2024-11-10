@@ -17,11 +17,11 @@
         <nav>
             <a href="">entrada1</a>
             
-            <a href="">entrada2</a>
+            <a href="perfil_usuario.php">perfil</a>
             <div>
                 <img src="../assets/images/logoappc.png" alt="" width="150px" height="150px">
             </div>
-            <a href="">entrada3</a>
+            <a href="mis_entradas.php">mis entradas</a>
             <a href="">entrada4</a>
 
         </nav>
@@ -118,9 +118,9 @@
         </div>
 
             <div class="icons-footer">
-                <img src="img/instagram.png" alt="" width="30px" height="30px">
-                <img src="img/facebook-app-symbol.png" alt="" width="30px" height="30px">
-                <img src="img/twitter.png" alt="" width="30px" height="30px">
+                <img src="../assets/images/instagram.png" alt="" width="30px" height="30px">
+                <img src="../assets/images/facebook-app-symbol.png" alt="" width="30px" height="30px">
+                <img src="../assets/images/twitter.png" alt="" width="30px" height="30px">
             </div>
                
 
