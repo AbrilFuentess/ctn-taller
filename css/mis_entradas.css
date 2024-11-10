@@ -5,11 +5,11 @@
 }
 
 body {
-    min-height: 100vh; /* Asegura que el contenido ocupe al menos la altura de la ventana */
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     background-color: #000000;
-    padding-top: 150px; /* Espacio para el header fijo */
+    padding-top: 150px; 
 }
 
 h1 {
@@ -58,7 +58,8 @@ a:hover {
 }
 
 main {
-    flex: 1; /* Ocupa el espacio restante entre el header y el footer */
+    height: 1000px;
+    flex: 1;
     background-color: #000000;
 }
 
