@@ -9,14 +9,11 @@
 <body>
 <header>
         <nav>
-            <a href="">entrada1</a>
-            
             <a href="index.php">Principal</a>
             <div>
                 <img src="../assets/images/logoappc.png" alt="" width="150px" height="150px">
             </div>
-            <a href="">entrada3</a>
-            <a href="">entrada4</a>
+            <a href="index.php">Principal</a>
         </nav>
     </header>
     <div class="cont1">

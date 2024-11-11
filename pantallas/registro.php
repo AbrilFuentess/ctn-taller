@@ -36,7 +36,7 @@
                 <label for="confirm_password">Confirmar Contraseña:</label><br>
                 <input type="password" id="confirm_password" name="confirm_password" required><br>
 
-                <button type="submit">Registrarse</button>
+                <a href="index.php"><button type="submit">Registrarse</button></a>
             </fieldset>
         </form>
     </div>

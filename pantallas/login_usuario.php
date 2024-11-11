@@ -23,7 +23,7 @@
                 <label for="password">Contraseña:</label><br>
                 <input type="password" id="password" name="password" required><br>
 
-                <button type="submit">Logearse</button>
+                <a href="index.php"><button type="submit">Logearse</button></a>
             </fieldset>
         </form>
     </div>
